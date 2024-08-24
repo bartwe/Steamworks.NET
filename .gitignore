@@ -7,3 +7,5 @@ Standalone/obj/x86/Windows/Steamworks.NET.pdb
 Standalone/bin/x86/Windows/Steamworks.NET.dll
 */obj/
 */bin/
+
+*.dtbcache.json
